@@ -1,0 +1,10 @@
+C:\Users\claudio\Documents\GitHub\LabGraficos\bin\Debug\LabGraficos.exe.config
+C:\Users\claudio\Documents\GitHub\LabGraficos\bin\Debug\LabGraficos.exe
+C:\Users\claudio\Documents\GitHub\LabGraficos\bin\Debug\LabGraficos.pdb
+C:\Users\claudio\Documents\GitHub\LabGraficos\obj\Debug\LabGraficos.csprojAssemblyReference.cache
+C:\Users\claudio\Documents\GitHub\LabGraficos\obj\Debug\LabGraficos.Form1.resources
+C:\Users\claudio\Documents\GitHub\LabGraficos\obj\Debug\LabGraficos.Properties.Resources.resources
+C:\Users\claudio\Documents\GitHub\LabGraficos\obj\Debug\LabGraficos.csproj.GenerateResource.cache
+C:\Users\claudio\Documents\GitHub\LabGraficos\obj\Debug\LabGraficos.csproj.CoreCompileInputs.cache
+C:\Users\claudio\Documents\GitHub\LabGraficos\obj\Debug\LabGraficos.exe
+C:\Users\claudio\Documents\GitHub\LabGraficos\obj\Debug\LabGraficos.pdb
